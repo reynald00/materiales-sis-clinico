@@ -1,0 +1,5 @@
+data-tables https://datatables.net/
+jQuery Mask Plugin https://github.com/igorescobar/jQuery-Mask-Plugin
+Minimal Rich Text https://www.jqueryscript.net/text/Rich-Text-Editor-jQuery-RichText.html
+Basic Table https://www.github.com/jerrylow/basictable
+Bootstrap typeahead https://github.com/bassjobsen/Bootstrap-3-Typeahead
