@@ -1,0 +1,6 @@
+Advanced Custom Fields https://es.wordpress.org/plugins/advanced-custom-fields/
+Custom Post Type UI https://es.wordpress.org/plugins/custom-post-type-ui/
+Hide Admin Bar Toolbar https://wordpress.org/plugins/global-admin-bar-hide-or-remove/
+Profile Builder https://es.wordpress.org/plugins/profile-builder/
+WP Hide & Security Enhancer https://wordpress.org/plugins/wp-hide-security-enhancer/
+Redux Framework https://wordpress.org/plugins/redux-framework/
